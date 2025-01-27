@@ -1,5 +1,5 @@
 import org.junit.Test;
-import org.testng.Assert;
+import org.junit.Assert;
 
 import ru.netology.CashbackHackService;
 
